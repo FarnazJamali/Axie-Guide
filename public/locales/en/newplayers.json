@@ -1,0 +1,113 @@
+{
+  "newplayers_title": "Welcome, New Players",
+  "newplayers_text_1": "An exciting adventure awaits you!",
+  "newplayers_text_2": "At its heart, Axie Infinity is a game about collecting and battling adorable creatures called Axies. But Axie Infinity is more than just a game. It is a universe of experiences with an active player-owned economy and a close-knit community.",
+  "newplayers_text_3": "This New Player Guide contains all of the basic info that you will need to get started as a new player. We're so glad you're here.",
+  "axies": "axies",
+  "btn_play": "how to play",
+  "btn_possibilities": "infinite possibilities",
+  "axie_description_1": "Axie Infinity: Origins is available for desktop and Android mobile devices. Click here to ",
+  "axie_description_link": "visit the downloads page",
+  "axie_description_2": "The iOS version is coming soon!",
+  "axie_description_3": "Axies are fascinating, fierce and adorable creatures that you can collect, battle and breed.",
+  "axie_description_4": "Each Axie has 6 body parts: eyes, ears, horn, mouth, back, and tail.",
+  "axie_description_5": "An Axie's body parts determine which Cards it has. Cards give Axies unique abilities ranging from basic attacks to Curses and Summons.",
+  "axie_description_6": "You can customize and enhance your Axie's abilities using special items called Runes and Charms.",
+  "axie_description_7": "There are two different types of Axies that you can collect: ",
+  "axie_description_8": ". Don't forget - you'll need a team of 3 Axies in order to play!",
+  "starter_description": "As a new player, you'll receive 3 free Starter Axies named Buba, Olek & Puffy. You can unlock more Starter Axies by playing Adventure Mode!",
+  "personal_description": "You can also obtain your own Personal Axies on the Marketplace. Personal Axies can breed to create more Axies and can be traded with other players.",
+  "btn_learn": "learn more",
+  "characters": "Buba, Olek & Puffy",
+  "how_to_play_1": "Axie Infinity is a turn-based card game where you and your Axies battle against fierce foes and other players.",
+  "how_to_play_2": "There are 2 different types of gameplay: ",
+  "adventure_mode": "Adventure Mode",
+  "arena_mode": "Arena Mode",
+  "how_to_play_3": ". While you'll face different opponents depending on which gameplay Mode you're playing, the basic battle mechanics are the same for both.",
+  "how_to_play_4": "Let's dive into the key parts of Axie combat.",
+  "battle_title": "Battle Basics",
+  "battle_basics_data": [
+    {
+      "src": "/img/png/cards2.png",
+      "title": "Cards",
+      "description": "At the beginning of each turn, you draw 5 Cards from your deck of 18 cards. Tap on any Card in your hand to use that ability. Used Cards go into the Discard Pile."
+    },
+    {
+      "src": "/img/png/energy.png",
+      "title": "Energy",
+      "description": "You will start each turn with 3 Energy and, as you play Cards, your Energy will be depleted."
+    },
+    {
+      "src": "/img/png/turns.png",
+      "title": "Turns",
+      "description": "Once you're out of Energy or done playing Cards, tap End Turn. Unused Cards will be discarded at the end of each Turn, unused energy will not be carried over by default."
+    },
+    {
+      "src": "/img/png/battle3.png",
+      "title": "Battle",
+      "description": "The bars floating above your Axies' heads show how much health they have left. The goal is to reduce the health of your opponent's 3 Axies to 0 before they can do the same to you."
+    },
+    {
+      "src": "/img/png/rewards.png",
+      "title": "Rewards",
+      "description": "The winner receives rewards, ranging from power-ups to crafting materials. If you're playing Adventure Mode, you can unlock new chapters in the storyline, while in Ranked Arena Mode, you can collect Victory Stars and climb to new ranks!"
+    }
+  ],
+  "info": "Phew, that was a lot of info! If you'd like learn more about Axie battles, check out our detailed Gameplay Guide!",
+  "btn_guide": "Gameplay Guide",
+  "infinity_description": "Axies are your ticket to endless experiences in the Axie Infinity Universe.",
+  "battletype_data": [
+    {
+      "href": "/adventure",
+      "src1": "/img/jpeg/adventure.jpg",
+      "src2": "/img/png/adventure-title.png",
+      "description": "Hone your skills or practice new strategies."
+    },
+    {
+      "href": "/arena",
+      "src1": "/img/jpeg/arena.jpg",
+      "src2": "/img/png/arena-title.png",
+      "description": "Battle against other players for a spot on the leaderboard."
+    },
+    {
+      "href": "/esports",
+      "src1": "/img/jpeg/esports.jpg",
+      "src2": "/img/png/esports-title.png",
+      "description": "Compete in an eSports event to win even greater prizes!"
+    }
+  ],
+  "theory_craft_data": [
+    {
+      "src1": "/img/jpeg/axie-builds.jpg",
+      "src2": "/img/png/axie-builds-title.png",
+      "description": "Assemble next Season's strongest Axie builds and team compositions.",
+      "href": "/guides/builds"
+    },
+    {
+      "src1": "/img/jpeg/breeding.jpg",
+      "src2": "/img/png/breeding-title.png",
+      "description": "Experiment with Axie genetics to breed and sell desirable Axies on the Marketplace.",
+      "href": "/guides/breeding"
+    }
+  ],
+  "infiniteExperience": [
+    {
+      "src1": "/img/jpeg/collect.jpg",
+      "src2": "/img/png/collect-title.png",
+      "description": "Explore the Marketplace in search of rare Axies to add to your collection. Origin and Mystic Axies are some of the most collectible NFTs thanks to their unique aesthetics and capped supply.",
+      "href": "/guides/collectors"
+    },
+    {
+      "src1": "/img/jpeg/create.jpg",
+      "src2": "/img/png/create-title.png",
+      "description": "Creators are the backbone of the Axie Infinity community. Whether you produce YouTube videos, make art, write guides or host live streams, you play a vital role in attracting and onboarding new players to our ecosystem.",
+      "href": "/guides/creators"
+    },
+    {
+      "src1": "/img/jpeg/connect.jpg",
+      "src2": "/img/png/connect-title.png",
+      "description": "Join your Axie regional server and make local connections and help build the future of the Axie universe, together.",
+      "href": "/community"
+    }
+  ]
+}

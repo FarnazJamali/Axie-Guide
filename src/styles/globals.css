@@ -1,0 +1,153 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: theme("borderColor.DEFAULT", currentColor);
+}
+::selection {
+  color: #3a3a3a;
+  background: #fada5e;
+}
+body {
+  background-color: #fffcf9;
+}
+@tailwind base;
+
+@layer base {
+  p,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  span {
+    @apply text-grey;
+  }
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-medium;
+  }
+  h1 {
+    @apply text-5xl;
+  }
+  h2 {
+    @apply text-4xl;
+  }
+  h3 {
+    @apply text-3xl;
+  }
+  h4 {
+    @apply text-2xl;
+  }
+  h5,h6 {
+    @apply text-lg font-bold;
+  }
+}
+@tailwind components;
+@tailwind utilities;
+
+.triangle:before {
+  content: "\A";
+  border-left: 10px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 15px solid white;
+  position: absolute;
+  left: 20%;
+  top: -10px;
+}
+
+.bg_intro-box_pattern-left {
+  background-image: url("/img/png/pattern-vertical-left.png");
+  background-repeat: repeat-y;
+  background-position: center center;
+  opacity: 0.2;
+}
+
+.bg_introbox_pattern-top {
+  background-image: url("/img/png/pattern.png");
+  background-repeat: repeat-x;
+  height: 20px;
+  width: 100%;
+  background-position: center center;
+  opacity: 0.2;
+  background-size: contain;
+}
+
+.bg_light_pattern_background {
+  background-image: url("/img/png/pattern-light.png");
+  background-repeat: repeat-y;
+  position: relative;
+  z-index: 2;
+  min-height: calc(100vh - 60px);
+}
+
+.bg_decorative_pattern {
+  background-image: url("/img/png/pattern-decorative-light.png");
+  background-position: center center;
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: 100px;
+  width: 100%;
+}
+@media (max-width: 599.95px) {
+  .bg_decorative_pattern {
+    height: 50px;
+    margin-bottom: -16px;
+  }
+}
+
+.bg_decorative_pattern2 {
+  background-image: url("/img/png/pattern-decorative.png");
+  background-position: center center;
+  background-repeat: repeat-x;
+  background-size: contain;
+  height: 100px;
+  width: 100%;
+}
+.cards_blur_shadow::before {
+  content: "";
+  background: rgba(57, 36, 26, 0.47);
+  filter: blur(2.8px);
+  position: absolute;
+  inset: 0px;
+  border-radius: 15px;
+}
+
+.cards_bg_card-frame {
+  z-index: 24;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/png/frame.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+p > strong {
+  color: #f9de4b;
+}
+p > a {
+  color: #ff6060;
+  font-weight: bold;
+}
+p > a:hover {
+  text-decoration: underline #ff6060;
+}
+
+p > bold {
+  font-weight: bold;
+}
+.personal_axies_bg {
+  background-image: url(/img/png/personal-axies2.png);
+  background-position: center center;
+  background-size: contain;
+  background-repeat: repeat-x;
+  margin-top: -80px;
+  margin-bottom: -64px;
+  height: 80px;
+}

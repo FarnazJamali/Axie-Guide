@@ -1,0 +1,138 @@
+{
+  "menu_data": [
+    { "title": "New Players", "link": "/new-players" },
+    {
+      "title": "Axies",
+      "link": "id1",
+      "subMenu": [
+        { "title": "what are axies", "link": "/what-are-axies" },
+        { "title": "Starter Axies", "link": "/starter-axies" },
+        { "title": "Personal Axies", "link": "/personal-axies" }
+      ]
+    },
+    {
+      "title": "Game",
+      "link": "id2",
+      "subMenu": [
+        [
+          { "title": "Adventure", "link": "/adventure" },
+          { "title": "Arena", "link": "/arena" },
+          { "title": "Esports", "link": "/esports" },
+          { "title": "Status effects", "link": "/status-effects" }
+        ],
+        [
+          { "title": "Cards", "link": "/cards" },
+          { "title": "Runes", "link": "/runes" },
+          { "title": "Charms", "link": "/charms" }
+        ]
+      ]
+    },
+    { "title": "Guides", "link": "/guides" },
+    { "title": "Community", "link": "/community" }
+  ],
+  "menu_data_sidenave": [
+    { "title": "New Players", "link": "/new-players" },
+    {
+      "title": "Axies",
+      "link": "id1",
+      "subMenu": [
+        { "title": "what are axies", "link": "/what-are-axies" },
+        { "title": "Starter Axies", "link": "/starter-axies" },
+        { "title": "Personal Axies", "link": "/personal-axies" }
+      ]
+    },
+    {
+      "title": "Game",
+      "link": "id2",
+      "subMenu": [
+        { "title": "Adventure", "link": "/adventure" },
+        { "title": "Arena", "link": "/arena" },
+        { "title": "Esports", "link": "/esports" },
+        { "title": "Status effects", "link": "/status-effects" },
+        { "title": "Cards", "link": "/cards" },
+        { "title": "Runes", "link": "/runes" },
+        { "title": "Charms", "link": "/charms" }
+      ]
+    },
+    { "title": "Guides", "link": "/guides" },
+    { "title": "Community", "link": "/community" }
+  ],
+  "footer_data": [
+    {
+      "title": "Getting Started",
+      "submenu": [{ "title": "New Players", "link": "/new-players" }]
+    },
+    {
+      "title": "Axies",
+      "submenu": [
+        { "title": "what are axies", "link": "/what-are-axies" },
+        { "title": "Starter Axies", "link": "/starter-axies" },
+        { "title": "Personal Axies", "link": "/personal-axies" }
+      ]
+    },
+    {
+      "title": "Game",
+      "submenu": [
+        { "title": "Adventure", "link": "/adventure" },
+        { "title": "Arena", "link": "/arena" },
+        { "title": "Esports", "link": "/esports" },
+        { "title": "Status effects", "link": "/status-effects" },
+        { "title": "Cards", "link": "/cards" },
+        { "title": "Runes", "link": "/runes" },
+        { "title": "Charms", "link": "/charms" }
+      ]
+    },
+    {
+      "title": "More Tools",
+      "submenu": [
+        {
+          "title": "Card Explorer",
+          "link": "https://www.axie.tech/explorer/cards"
+        },
+        {
+          "title": "Rune Explorer",
+          "link": "https://www.axie.tech/explorer/runes"
+        },
+        {
+          "title": "Charm Explorer",
+          "link": "https://www.axie.tech/explorer/charms"
+        },
+        {
+          "title": "Axie Inspector",
+          "link": "https://www.axie.tech/inspector"
+        },
+        {
+          "title": "Team Builder",
+          "link": "https://www.axie.tech/team-builder"
+        }
+      ]
+    }
+  ],
+  "text": "example",
+  "site_name": "AXIE.TECH",
+  "guide_page": "view guides",
+  "join_page": "join guild",
+  "footer_note": "© 2023 Axie Tech",
+  "terms": "Terms and Conditions",
+  "privacy_policy": "Privacy Policy",
+  "visit_marketplace": "visit marketplace",
+  "join_title": "Join the Community",
+  "join_text": "Connect with other Axie Trainers during your adventures in Lunacia.",
+  "discord": "discord ",
+  "twitter": "twitter",
+  "twitch": "twitch",
+  "starter_link": "Starter Axies",
+  "personal_link": "Personal Axies",
+  "and": " and ",
+  "axies": "Axies",
+  "cards": "Cards",
+  "charms": "Charms",
+  "runes": "Runes",
+  "bgfooter_title": "Get your first Axies",
+  "bgfooter_text": "Learn how to acquire and unlock your own Starter Axies.",
+  "faq": "FAQ",
+  "Market_place": "Marketplace",
+  "adventure": "Adventure",
+  "arena": "Arena",
+  "learn_more": "learn more"
+}

@@ -1,0 +1,495 @@
+{
+  "page_title": "Status Effects",
+  "page_description": "Look out! Floating icons mean that positive or negative status effects have been applied to your Axies.",
+  "buffs": "Buffs",
+  "buffs_text": "Positive status effects.",
+  "buffs_data": [
+    {
+      "id": 56,
+      "name": "Bloodspike",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. When this unit dies, deal Pure DMG equal to the number of Bloodspike stack to all enemies",
+      "image": "/img/png/buff_bloodspike.png"
+    },
+    {
+      "id": 4,
+      "name": "Bubble",
+      "type": "Buff",
+      "description": "Single Attack deal DMG = 1.5% of the target current HP per stack. Turn into Bubble Bomb upon reaching 5 stacks.",
+      "image": "/img/png/buff_bubble.png"
+    },
+    {
+      "id": 5,
+      "name": "Bubble Bomb",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. The next Single Attack make Bubble Bomb explode and deals 20 DMG to all enemies",
+      "image": "/img/png/buff_bubble_bomb.png"
+    },
+    {
+      "id": 8,
+      "name": "Cleanser",
+      "type": "Buff",
+      "description": "Each stack negates up to 3 stacks or 3 turns of 1 Debuff applied to the target.",
+      "image": "/img/png/buff_cleanser.png"
+    },
+    {
+      "id": 51,
+      "name": "Cocoon",
+      "type": "Buff",
+      "description": "When your opponent's turn starts, this Unit gains 4 Shield per stack. When that turn ends, if the Unit still has Shield, Retain 5% of that Shield per stack. Max stack: 10.",
+      "image": "/img/png/buff_cocoon.png"
+    },
+    {
+      "id": 9,
+      "name": "Damage Boost",
+      "type": "Buff",
+      "description": "The target has Attack DMG increased by 1 per stack.",
+      "image": "/img/png/buff_damage_boost.png"
+    },
+    {
+      "id": 52,
+      "name": "Eggshell",
+      "type": "Buff",
+      "description": "At the end of the turn, every summon gain 25 Shield.",
+      "image": "/img/png/buff_eggshell.png"
+    },
+    {
+      "id": 6,
+      "name": "Feather",
+      "type": "Buff",
+      "description": "Deal 1 bonus DMG per hit. Whenever this Axie hits a target, increase this bonus by 1 DMG. When this Axie has no Feathers, bonus DMG is reset. When your turn ends, if this Axie used an Attack card, it loses 1 Feather.",
+      "image": "/img/png/buff_feather.png"
+    },
+    {
+      "id": 2,
+      "name": "Fury",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. When transformed, gain 1 Energy, deal 50% bonus DMG but can't grant Energy Fragment and can't gain Rage until the end of turn.",
+      "image": "/img/png/buff_fury.png"
+    },
+    {
+      "id": 10,
+      "name": "Healing Boost",
+      "type": "Buff",
+      "description": "Increase healing card effects to this unit by 1 HP per stack.",
+      "image": "/img/png/buff_healing_boost.png"
+    },
+    {
+      "id": 3,
+      "name": "Leaf",
+      "type": "Buff",
+      "description": "The Unit heals 4 HP per stack at the end of its turn. Max stack: 10.",
+      "image": "/img/png/buff_leaf.png"
+    },
+    {
+      "id": 38,
+      "name": "Meditate",
+      "type": "Buff",
+      "description": "Meditate for 2  turns. If attacked while Meditating, awake and gain 3 Rage. If not, Cleanse 1 debuff and gain 1 Energy after effect ends.",
+      "image": "/img/png/buff_meditate.png"
+    },
+    {
+      "id": 1,
+      "name": "Rage",
+      "type": "Buff",
+      "description": "Attacks deal 1 bonus DMG per hit for each stack. This unit suffers 1 extra DMG per hit for each stack. Upon reaching 10 Rage stacks, consume all stacks and enter Fury form.",
+      "image": "/img/png/buff_rage.png"
+    },
+    {
+      "id": 11,
+      "name": "Shield Boost",
+      "type": "Buff",
+      "description": "The target has Shield gained from cards increased by 1 per stack.",
+      "image": "/img/png/buff_shield_boost.png"
+    },
+    {
+      "id": 58,
+      "name": "Snake Jar",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. If this unit doesn't die in 6 turns, deal 100 DMG to all enemies.",
+      "image": "/img/png/buff_snake_jar.png"
+    },
+    {
+      "id": 55,
+      "name": "Spike",
+      "type": "Buff",
+      "description": "When hit, consume 1 stack to reflect 5 DMG and gain 5 Bloodspike. Max stack: 10.",
+      "image": "/img/png/buff_spike.png"
+    },
+    {
+      "id": 7,
+      "name": "Stealth",
+      "type": "Buff",
+      "description": "The target cannot be targeted directly. If it uses a card, remove Stealth.",
+      "image": "/img/png/buff_stealth.png"
+    }
+  ],
+  "debuffs": "Debuffs",
+  "debuffs_text": "Negative status effects.",
+  "debuffs_data": [
+    {
+      "id": 54,
+      "name": "Bad Luck",
+      "type": "Debuff",
+      "description": "Increases Jinx damage by 5 per stack.",
+      "image": "/img/png/debuff_bad_luck.png"
+    },
+    {
+      "id": 14,
+      "name": "Bleed",
+      "type": "Debuff",
+      "description": "Target loses 15 HP when playing a card.",
+      "image": "/img/png/debuff_bleed.png"
+    },
+    {
+      "id": 15,
+      "name": "Death Mark",
+      "type": "Debuff",
+      "description": "Whenever your opponent plays an Attack card, the target takes 15 DMG per Energy spent.",
+      "image": "/img/png/debuff_death_mark.png"
+    },
+    {
+      "id": 23,
+      "name": "Disarmed",
+      "type": "Debuff",
+      "description": "The target cannot use Attack Abilities.",
+      "image": "/img/png/debuff_disarmed.png"
+    },
+    {
+      "id": 25,
+      "name": "Doubt",
+      "type": "Debuff",
+      "description": "The target gains 50% less HP from Healing.",
+      "image": "/img/png/debuff_doubt.png"
+    },
+    {
+      "id": 21,
+      "name": "Fear",
+      "type": "Debuff",
+      "description": "Whenever the target uses an Attack card, shuffle a Confused into its draw pile.",
+      "image": "/img/png/debuff_fear.png"
+    },
+    {
+      "id": 19,
+      "name": "Fragile",
+      "type": "Debuff",
+      "description": "The target gains 40% less Shield from cards.",
+      "image": "/img/png/debuff_fragile.png"
+    },
+    {
+      "id": 50,
+      "name": "Grievous Wound",
+      "type": "Debuff",
+      "description": "Each time this Unit takes DMG from Bleed, it also takes 10 Pure DMG per Grievous Wound stack, then it gains 1 Grievous Wound stack. Max stack: 10.",
+      "image": "/img/png/debuff_grievous_wound.png"
+    },
+    {
+      "id": 26,
+      "name": "Heal Block",
+      "type": "Debuff",
+      "description": "The target cannot be healed.",
+      "image": "/img/png/debuff_heal_block.png"
+    },
+    {
+      "id": 22,
+      "name": "Hex",
+      "type": "Debuff",
+      "description": "Whenever the target uses a non-Attack card, shuffle a Confused into its draw pile.",
+      "image": "/img/png/debuff_hex.png"
+    },
+    {
+      "id": 13,
+      "name": "Poison",
+      "type": "Debuff",
+      "description": "When your turn starts, this Unit loses 3 HP per stack of Poison, then remove 1 stack. Cap at 40 stacks.",
+      "image": "/img/png/debuff_poison.png"
+    },
+    {
+      "id": 24,
+      "name": "Silence",
+      "type": "Debuff",
+      "description": "The target cannot use non-Attack Abilities.",
+      "image": "/img/png/debuff_silence.png"
+    },
+    {
+      "id": 16,
+      "name": "Sleep",
+      "type": "Debuff",
+      "description": "While this Axie has Sleep, next time it plays a card, negate that card then remove Sleep. When this Axie is attacked, remove Sleep.",
+      "image": "/img/png/debuff_sleep.png"
+    },
+    {
+      "id": 17,
+      "name": "Stunned",
+      "type": "Debuff",
+      "description": "Target cannot use any abilities.",
+      "image": "/img/png/debuff_stunned.png"
+    },
+    {
+      "id": 18,
+      "name": "Vulnerable",
+      "type": "Debuff",
+      "description": "The Unit takes 20% more DMG from Attacks.",
+      "image": "/img/png/debuff_vulnerable.png"
+    },
+    {
+      "id": 20,
+      "name": "Weak",
+      "type": "Debuff",
+      "description": "The target deals 20% less attack damage.",
+      "image": "/img/png/debuff_weak.png"
+    }
+  ],
+  "search_data": [
+    {
+      "id": 54,
+      "name": "Bad Luck",
+      "type": "Debuff",
+      "description": "Increases Jinx damage by 5 per stack.",
+      "image": "/img/png/debuff_bad_luck.png"
+    },
+    {
+      "id": 14,
+      "name": "Bleed",
+      "type": "Debuff",
+      "description": "Target loses 15 HP when playing a card.",
+      "image": "/img/png/debuff_bleed.png"
+    },
+    {
+      "id": 56,
+      "name": "Bloodspike",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. When this unit dies, deal <Pure DMG> equal to the number of Bloodspike stack to all enemies",
+      "image": "/img/png/buff_bloodspike.png"
+    },
+    {
+      "id": 4,
+      "name": "Bubble",
+      "type": "Buff",
+      "description": "Single Attack deal DMG = 1.5% of the target current HP per stack. Turn into Bubble Bomb upon reaching 5 stacks.",
+      "image": "/img/png/buff_bubble.png"
+    },
+    {
+      "id": 5,
+      "name": "Bubble Bomb",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. The next Single Attack make Bubble Bomb explode and deals 20 DMG to all enemies",
+      "image": "/img/png/buff_bubble_bomb.png"
+    },
+    {
+      "id": 8,
+      "name": "Cleanser",
+      "type": "Buff",
+      "description": "Each stack negates up to 3 stacks or 3 turns of 1 Debuff applied to the target.",
+      "image": "/img/png/buff_cleanser.png"
+    },
+    {
+      "id": 51,
+      "name": "Cocoon",
+      "type": "Buff",
+      "description": "When your opponent's turn starts, this Unit gains 4 Shield per stack. When that turn ends, if the Unit still has Shield, Retain 5% of that Shield per stack. Max stack: 10.",
+      "image": "/img/png/buff_cocoon.png"
+    },
+    {
+      "id": 9,
+      "name": "Damage Boost",
+      "type": "Buff",
+      "description": "The target has Attack DMG increased by 1 per stack.",
+      "image": "/img/png/buff_damage_boost.png"
+    },
+    {
+      "id": 15,
+      "name": "Death Mark",
+      "type": "Debuff",
+      "description": "Whenever your opponent plays an Attack card, the target takes 15 DMG per Energy spent.",
+      "image": "/img/png/debuff_death_mark.png"
+    },
+    {
+      "id": 23,
+      "name": "Disarmed",
+      "type": "Debuff",
+      "description": "The target cannot use Attack Abilities.",
+      "image": "/img/png/debuff_disarmed.png"
+    },
+    {
+      "id": 25,
+      "name": "Doubt",
+      "type": "Debuff",
+      "description": "The target gains 50% less HP from Healing.",
+      "image": "/img/png/debuff_doubt.png"
+    },
+    {
+      "id": 52,
+      "name": "Eggshell",
+      "type": "Buff",
+      "description": "At the end of the turn, every summon gain 25 Shield.",
+      "image": "/img/png/buff_eggshell.png"
+    },
+    {
+      "id": 21,
+      "name": "Fear",
+      "type": "Debuff",
+      "description": "Whenever the target uses an Attack card, shuffle a Confused into its draw pile.",
+      "image": "/img/png/debuff_fear.png"
+    },
+    {
+      "id": 6,
+      "name": "Feather",
+      "type": "Buff",
+      "description": "Deal 1 bonus DMG per hit. Whenever this Axie hits a target, increase this bonus by 1 DMG. When this Axie has no Feathers, bonus DMG is reset. When your turn ends, if this Axie used an Attack card, it loses 1 Feather.",
+      "image": "/img/png/buff_feather.png"
+    },
+    {
+      "id": 19,
+      "name": "Fragile",
+      "type": "Debuff",
+      "description": "/img/png/The target gains 40% less Shield from cards.",
+      "image": "/img/png/debuff_fragile.png"
+    },
+    {
+      "id": 2,
+      "name": "Fury",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. When transformed, gain 1 Energy, deal 50% bonus DMG but can't grant Energy Fragment and can't gain Rage until the end of turn.",
+      "image": "/img/png/buff_fury.png"
+    },
+    {
+      "id": 50,
+      "name": "Grievous Wound",
+      "type": "Debuff",
+      "description": "Each time this Unit takes DMG from Bleed, it also takes 10 Pure DMG per Grievous Wound stack, then it gains 1 Grievous Wound stack. Max stack: 10.",
+      "image": "/img/png/debuff_grievous_wound.png"
+    },
+    {
+      "id": 26,
+      "name": "Heal Block",
+      "type": "Debuff",
+      "description": "The target cannot be healed.",
+      "image": "/img/png/debuff_heal_block.png"
+    },
+    {
+      "id": 10,
+      "name": "Healing Boost",
+      "type": "Buff",
+      "description": "Increase healing card effects to this unit by 1 HP per stack.",
+      "image": "/img/png/buff_healing_boost.png"
+    },
+    {
+      "id": 22,
+      "name": "Hex",
+      "type": "Debuff",
+      "description": "Whenever the target uses a non-Attack card, shuffle a Confused into its draw pile.",
+      "image": "/img/png/debuff_hex.png"
+    },
+    {
+      "id": 3,
+      "name": "Leaf",
+      "type": "Buff",
+      "description": "The Unit heals 4 HP per stack at the end of its turn. Max stack: 10.",
+      "image": "/img/png/buff_leaf.png"
+    },
+    {
+      "id": 38,
+      "name": "Meditate",
+      "type": "Buff",
+      "description": "Meditate for 2  turns. If attacked while Meditating, awake and gain 3 Rage. If not, Cleanse 1 debuff and gain 1 Energy after effect ends.",
+      "image": "/img/png/buff_meditate.png"
+    },
+    {
+      "id": 13,
+      "name": "Poison",
+      "type": "Debuff",
+      "description": "When your turn starts, this Unit loses 3 HP per stack of Poison, then remove 1 stack. Cap at 40 stacks.",
+      "image": "/img/png/debuff_poison.png"
+    },
+    {
+      "id": 1,
+      "name": "Rage",
+      "type": "Buff",
+      "description": "Attacks deal 1 bonus DMG per hit for each stack. This unit suffers 1 extra DMG per hit for each stack. Upon reaching 10 Rage stacks, consume all stacks and enter Fury form.",
+      "image": "/img/png/buff_rage.png"
+    },
+    {
+      "id": 11,
+      "name": "Shield Boost",
+      "type": "Buff",
+      "description": "The target has Shield gained from cards increased by 1 per stack.",
+      "image": "/img/png/buff_shield_boost.png"
+    },
+    {
+      "id": 24,
+      "name": "Silence",
+      "type": "Debuff",
+      "description": "The target cannot use non-Attack Abilities.",
+      "image": "/img/png/debuff_silence.png"
+    },
+    {
+      "id": 16,
+      "name": "Sleep",
+      "type": "Debuff",
+      "description": "While this Axie has Sleep, next time it plays a card, negate that card then remove Sleep. When this Axie is attacked, remove Sleep.",
+      "image": "/img/png/debuff_sleep.png"
+    },
+    {
+      "id": 58,
+      "name": "Snake Jar",
+      "type": "Buff",
+      "description": "Cannot be Dispelled. If this unit doesn't die in 6 turns, deal 100 DMG to all enemies.",
+      "image": "/img/png/buff_snake_jar.png"
+    },
+    {
+      "id": 55,
+      "name": "Spike",
+      "type": "Buff",
+      "description": "When hit, consume 1 stack to reflect 5 DMG and gain 5 Bloodspike. Max stack: 10.",
+      "image": "/img/png/buff_spike.png"
+    },
+    {
+      "id": 7,
+      "name": "Stealth",
+      "type": "Buff",
+      "description": "The target cannot be targeted directly. If it uses a card, remove Stealth.",
+      "image": "/img/png/buff_stealth.png"
+    },
+    {
+      "id": 17,
+      "name": "Stunned",
+      "type": "Debuff",
+      "description": "Target cannot use any abilities.",
+      "image": "/img/png/debuff_stunned.png"
+    },
+    {
+      "id": 27,
+      "name": "Taunt",
+      "type": "Neutral",
+      "description": "The target is always targeted by enemy's attack abilities",
+      "image": "/img/png/neutral_taunt.png"
+    },
+    {
+      "id": 18,
+      "name": "Vulnerable",
+      "type": "Debuff",
+      "description": "The Unit takes 20% more DMG from Attacks.",
+      "image": "/img/png/debuff_vulnerable.png"
+    },
+    {
+      "id": 20,
+      "name": "Weak",
+      "type": "Debuff",
+      "description": "The target deals 20% less attack damage.",
+      "image": "/img/png/debuff_weak.png"
+    }
+  ],
+  "neutral": "Neutral",
+  "neutral_text": "Neutral status effects.",
+  "neutral_data":[
+    {
+      "id": 27,
+      "name": "Taunt",
+      "type": "Neutral",
+      "description": "The target is always targeted by enemy's attack abilities",
+      "image": "/img/png/neutral_taunt.png"
+    }
+  ],
+  "search":"Search"
+}

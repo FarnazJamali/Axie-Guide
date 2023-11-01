@@ -1,0 +1,21 @@
+{
+  "footer_title": "Compete in the Arena",
+  "footer_text": "Test your skills by battling against other players and their Axies.",
+  "footer_btn": "learn more",
+  "footer_url": "/arena",
+  "page_title": "Adventure",
+  "page_description": "In Adventure mode, you'll fight against waves of Chimera as the main game storyline unfolds.",
+  "adventure_title": "What is Adventure Mode?",
+  "adventure_txt1": "Adventure Mode is the player vs. environment (PvE) gameplay mode in Axie Infinity. As the storyline unfolds, you'll battle waves of Chimera, level up your Axies and collect rewards.",
+  "adventure_txt2": "The Adventure Mode storyline is comprised of different Chapters. Each Chapter has 7 Big Stages and 12 Small Stages. Collect stars in Big Stages by completing the specific Challenges listed at the beginning of the Stage.",
+  "alert_txt": "Stars are used for unlocking Milestone Rewards and improving the quality of Foraging rewards.",
+  "foaraging": "Foraging",
+  "foraging_txt1": "Axies will sometimes collect items on their adventures and put them in the Foraging Box, which you can open from the Adventure Mode map.",
+  "foraging_txt2": "Be sure to check your Foraging Box often! Resources like EXP and Moon Shards accumulate over time, even when you aren't playing. And, the more total Stars you've collected, the better the foraging rewards!",
+  "alert_txt2": "If you haven't collected your Foraging rewards for 12 hours, no new items will be added until you collect the existing ones.",
+  "new": "New!",
+  "milestone": "Milestone Rewards",
+  "milestone_txt1": "Earn enough Stars in an Adventure Mode Chapter and you'll be able to collect Milestone Rewards.",
+  "milestone_txt2": "Tap on the small treasure chests below the map to claim your rewards!",
+  "alert_txt3": "Milestone Rewards rewards are highly valuable, but can only be claimed once."
+}

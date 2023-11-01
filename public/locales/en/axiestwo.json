@@ -1,0 +1,63 @@
+{
+  "page_title": "Starter Axies",
+  "title_description": "All players receive free Starter Axies to battle with during their adventures in Lunacia.",
+  "btn_starter": "Explore Starter Axies",
+  "meet_title": "Meet Buba, Olek & Puffy",
+  "meet_text": "Buba, Olek and Puffy are just a few of the Starter Axies that Trainers are able to play with, completely for free! As you progress in Adventure, you can collect even more starter Axies to add to your team.",
+  "alert_text_1": "While Starter Axies are adorable, they aren't NFTs. This means you can't use them to earn SLP. Starter Axies also cannot breed or be traded. If you're interested in unlocking these features, pick out your own ",
+  "from": " from the ",
+  "upgrade_title": "Starter Axie Upgrades",
+  "upgrade_text": "As you play, you will earn rewards which allow you to upgrade the parts of your Starter Axies! This video from the Axie Community will show you what you need to know.",
+  "explore_title": "Explore Starter Axies",
+  "explore_text": "As you progress in Adventure Mode, you will unlock more Starter Axies, each with different traits and abilities. Which one is your favorite?",
+  "axies_types": [
+    {
+      "src": "/img/png/buba.png",
+      "name": "Buba",
+      "src2": "/img/png/beast3.png"
+    },
+    {
+      "src": "/img/png/olek-noborder.png",
+      "name": "Olek",
+      "src2": "/img/png/Plant.png"
+    },
+    {
+      "src": "/img/png/puffy.png",
+      "name": "Puffy",
+      "src2": "/img/png/Aquatic3.png"
+    },
+    { "src": "/img/png/ena.png", "name": "Ena", "src2": "/img/png/Plant.png" },
+    {
+      "src": "/img/png/tripp.png",
+      "name": "Tripp",
+      "src2": "/img/png/beast3.png"
+    }
+  ],
+  "faq_data": [
+    {
+      "h4": "Which Starter Axies can I play with?",
+      "p": "<p>You will receive 3 free Starter Axies when you begin playing Axie Infinity Origins: <a href='/starter-axie/buba'>Buba</a> , <a href='/starter-axie/olek'>Olek</a> and <a href='/starter-axie/puffy'>Puffy</a>.</p>"
+    },
+    {
+      "h4": "How can I unlock more Starter Axies?",
+      "p": "<p>As you progress in Adventure Mode, you'll unlock more Starter Axies to add to your team.</p>"
+    },
+    {
+      "h4": "What can I do with my Starter Axies?",
+      "p": "<p>Starter Axies can be used to battle in Adventure and Arena Modes.</p>"
+    },
+    {
+      "h4": "What’s the difference between Starter Axies and Personal Axies?",
+      "p": "<p>Starter Axies are unable to breed, cannot be traded and have less upgradability than <a href='/personal-axies'>Personal Axies</a>.</p>"
+    },
+    {
+      "h4": "Where do I get Personal Axies?",
+      "p": "<p>Personal Axies can be obtained from the <a href='https://marketplace.axieinfinity.com/axie'>Marketplace</a>.</p>"
+    }
+  ],
+  "footer_title": "New to Axie?",
+  "footer_text": "Check out our gameplay guide and win your first battle!",
+  "footer_btn": "gameplay guide",
+  "footer_url":"/guides/gameplay",
+  "exclamation": "!"
+}

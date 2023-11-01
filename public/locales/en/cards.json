@@ -1,0 +1,185 @@
+{
+  "footer_title": "Ready to Explore?",
+  "footer_text": "Jump into the Axie Infinity: Origins Card Explorer and start picking out your abilities!",
+  "footer_btn": "card explorer",
+  "footer_url": "https://axie.tech/explorer/cards",
+  "page_title": "Cards",
+  "page_description": "Each Axie has 6 different Cards that determine its abilities in Battle.",
+  "page_description2": "<p>When building your team, you should think about the strength of each Axie by itself as well as in combination with its teammates. Check out our <a href='/guides/builds'>Builds Guide</a> for team-building ideas!</p>",
+  "cards_data": [
+    {
+      "card_name": "Blossom",
+      "card_type": "skill",
+      "card_energy": "0",
+      "card_image": "/img/png/plant-eyes-10-00.png",
+      "card_text": "<p class='text-white'<If <strong>Initial</strong>, pick 1 Plant card from your Discard Pile; otherwise, pick from your Draw Pile. Put the card on top of your Draw Pile. <Banish>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/eyes.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate":"4"
+    },
+    {
+      "card_name": "Clover",
+      "card_type": "skill",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-ears-04-00.png",
+      "card_text": "<p class='text-white'>Summon 1 <strong>Clover</strong>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/ears.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate":"2"
+    },
+    {
+      "card_name": "Bidens",
+      "card_type": "skill",
+      "card_heal": 60,
+      "heal_icon": "/img/png/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-back-06-00.png",
+      "card_text": "<p class='text-white'>Target any Ally. <strong>Cleanse</strong> the target 2 times and grant it 2 <strong>Leaf</strong>.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate": "0"
+    },
+    {
+      "card_name": "Zigzag",
+      "card_nype": "attackmelee",
+      "card_damage": 60,
+      "damage_icon": "/img/png/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-mouth-04-00.png",
+      "card_text": "<p class='text-white'>If the target has <strong>Fragile</strong>, heal 20 HP to self. Otherwise, apply <strong>Fragile</strong> for 4 turns.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate": "0"
+    },
+    {
+      "card_name": "Cactus",
+      "card_type": "attackmelee",
+      "card_damage": 60,
+      "damage_icon": "/img/png/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-horn-10-00.png",
+      "card_text": "<p class='text-white'>If <strong>Initial</strong>, deal 15 bonus DMG and apply {Taunt} to self for 2 turns.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/horn.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate": "2"
+    },
+    {
+      "card_name": "Hot Butt",
+      "card_type": "skill",
+      "card_heal": 30,
+      "heal_icon": "/img/png/heal.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-tail-12-00.png",
+      "card_text": "<p class='text-white'>Target any ally. Put 2 <strong>Burn</strong>s into your opponent's Discard Pile.</p>",
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/tail.png",
+      "skill": "/img/png/skill.png",
+      "bottom_icon": "/img/png/plant3.png",
+      "rotate": "4"
+    }
+  ],
+  "anatomy_title": "Anatomy of a Card",
+  "anatomy_text": "Each Axie Card is made up of the following components:",
+  "description_data": [
+    { "number": "1", "name": "Card Name" },
+    { "number": "2", "name": "Description" },
+    { "number": "3", "name": "Tags" },
+    { "number": "4", "name": "Body Part" },
+    {
+      "number": "5",
+      "name": "Card Stats",
+      "sub_text": "Damage, Shield and/or Heal"
+    },
+    { "number": "6", "name": "Energy Cost" },
+    { "number": "7", "name": "Class" }
+  ],
+  "btn_text": "explore cards",
+  "single_card": [
+    {
+      "card_name": "Herbivore",
+      "card_type": "attackmelee",
+      "card_damage": 60,
+      "damage_icon": "/img/png/damage.png",
+      "card_energy": "1",
+      "card_image": "/img/png/plant-mouth-08-00.png",
+      "card_text": "<p class='text-white'>Target any enemy. Heal 15 HP to self. If the target has <strong>Sleep</strong>, apply <strong>Sleep</strong> for 5 turns.</p>",
+
+      "card_bg": "/img/jpeg/plant.jpg",
+      "card_bg_2": "/img/png/plant2.png",
+      "frame_energy": "/img/png/frame-energy.png",
+      "energy_icon": "/img/png/energy-icon.png",
+      "frame_plate": "/img/png/frame-owner-plate.png",
+      "icon": "/img/png/mouth.png",
+      "skill": "/img/png/attack.png",
+      "bottom_icon": "/img/png/plant3.png"
+    }
+  ],
+  "tags": "Tags",
+  "new": "New!",
+  "tags_data": [
+    { "tag_txt": "This Card does damage.", "tag_img": "/img/png/attack.png" },
+    {
+      "tag_txt": "Enhance this Axie's abilities in future rounds.",
+      "tag_img": "/img/jpeg/power.jpg"
+    },
+    {
+      "tag_txt": "Start each battle with this Card in your hand.",
+      "tag_img": "/img/jpeg/innate.jpg"
+    },
+    { "tag_txt": "This is a utility Card.", "tag_img": "/img/png/skill.png" },
+    {
+      "tag_txt": "Do not discard this Card at the end of your turn.",
+      "tag_img": "/img/png/retain_effect.png"
+    },
+    {
+      "tag_txt": "Remove the Card from your deck until the end of battle.",
+      "tag_img": "/img/png/bannish.png"
+    },
+    {
+      "tag_txt": "When your turn ends, if the Card is still in your hand, banish it.",
+      "tag_img": "/img/png/etheral.png"
+    },
+    {
+      "tag_txt": "This Card adds an effect that comes into play next turn.",
+      "tag_img": "/img/png/secret.png"
+    },
+    {
+      "tag_txt": "This Card cannot be played.",
+      "tag_img": "/img/png/unplayable.png"
+    }
+  ]
+}

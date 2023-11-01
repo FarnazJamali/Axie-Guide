@@ -1,0 +1,253 @@
+{
+  "footer_title": "Arena Pro?",
+  "footer_text": "Check out the upcoming Esports event schedule and register for a tournament!",
+  "footer_btn": "learn more",
+  "footer_url": "/esports",
+  "page_title": "Arena",
+  "page_description": "In Arena mode, you'll battle against other players and their teams of Axies.",
+  "arena_title": "What is Arena Mode?",
+  "arena_txt": "Arena Mode is the player vs. player (PvP) gameplay mode in Axie Infinity. Instead of fighting bosses, you'll be matched against other players and their Axies.",
+  "arena_txt2": "Arena will challenge all your skills as an Axie trainer. You'll need knowledge of battle mechanics plus the right combination of Axies, Cards, Runes and Charms. And a little luck never hurt!",
+  "arena_btn": "arena modes",
+  "alert_txt1": "There are currently 3 modes in Arena: Practice, Ranked and Tournament.",
+  "alert_txt2": "You may also encounter limited-time modes such as Blitz mode- with fast-paced games at a speeded up pace!",
+  "arena_mode_title": "Arena Modes",
+  "arena_mode_data": [
+    {
+      "src": "/img/png/practice2.png",
+      "text": "Practice battles are a great way to learn the game or try new strategies. Practice Mode does not have a ranking system.",
+      "title": "Practice Mode",
+      "href": "#practice-mode"
+    },
+    {
+      "src": "/img/png/ranked.png",
+      "text": "Ranked Mode has the same battle system as Practice Mode plus a ranking system. To climb the rankings, players win battles and earn Victory Stars.",
+      "title": "Ranked Mode",
+      "href": "#ranked-mode"
+    },
+    {
+      "src": "/img/png/tournament2.png",
+      "text": "Tournaments are held periodically and are an opportunity for players to test their Arena skills, compete, and win prizes.",
+      "title": "Tournament Mode",
+      "href": "#tournament-mode"
+    }
+  ],
+  "practice_title": "Practice Mode",
+  "new": "New!",
+  "practice_txt1": "Practice Mode allows you to hone your skills without having to worry about your ranking.",
+  "practice_txt2": "You can play an unlimited number of Practice Mode battles every day. Each win will earn you 1 EXP.",
+  "battle_title": "Battle System",
+  "battle_data": [
+    {
+      "text": "Every battle starts with both trainers deciding on their turn preferences (Go First or Go Second)."
+    },
+    {
+      "text": "If both players choose the same turn preference- they enter into Rock Paper Scissors to decide who gets their preference."
+    },
+    {
+      "text": "Each player will have 45 seconds to finish their turn. After 45 seconds, the turn will end automatically.",
+      "bg_color": "#fff3c3"
+    },
+    {
+      "text": "If a player has been inactive for 2 turns, they will have 10 seconds to become active again, or else they will be forced to lose the match."
+    }
+  ],
+  "battle_log_title": "Battle Log",
+  "battle_log_txt": "Check the in-game Battle Log to see your recent matchups and battle history.",
+  "alert_txt3": "There is no ranking system or leaderboard in Practice Mode.",
+  "rank_title": "Ranked Mode",
+  "rank_txt": "<p>Ranked Mode has the same battle system as <a href='#practice-mode'>Practice Mode</a> plus a ranking system.</p>",
+  "ranking_title": "Ranking System",
+  "ranking_txt": "The Ranked Mode ranking system is divided into 8 Ranks, each of which is subdivided into 4 Tiers. Beyond these Ranks is the Challenger Sphere.",
+  "ranking_data": [
+    {
+      "src": "/img/png/egg.png",
+      "title": "Egg",
+      "rank": "40",
+      "bouns": "0",
+      "tooltip_one": "Collect 40 Victory Stars to climb to the next Tier in Rank Egg.",
+      "tooltip_two": "If you reach Rank Egg, you'll receive 0 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/chick.png",
+      "title": "Chick",
+      "rank": "40",
+      "bouns": "0",
+      "tooltip_one": "Collect 40 Victory Stars to climb to the next Tier in Rank Chick.",
+      "tooltip_two": "If you reach Rank Chick, you'll receive 0 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/hare.png",
+      "title": "Hare",
+      "rank": "50",
+      "bouns": "0",
+      "tooltip_one": "Collect 50 Victory Stars to climb to the next Tier in Rank Hare.",
+      "tooltip_two": "If you reach Rank Hare, you'll receive 0 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/boar.png",
+      "title": "Boar",
+      "rank": "50",
+      "bouns": "0",
+      "tooltip_one": "Collect 50 Victory Stars to climb to the next Tier in Rank Boar.",
+      "tooltip_two": "If you reach Rank Boar, you'll receive 0 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/wolf.png",
+      "title": "Wolf",
+      "rank": "60",
+      "bouns": "10",
+      "tooltip_one": "Collect 60 Victory Stars to climb to the next Tier in Rank Wolf.",
+      "tooltip_two": "If you reach Rank Wolf, you'll receive 10 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/bear.png",
+      "title": "Bear",
+      "rank": "60",
+      "bouns": "20",
+      "tooltip_one": "Collect 60 Victory Stars to climb to the next Tier in Rank Bear.",
+      "tooltip_two": "If you reach Rank Bear, you'll receive 20 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/tiger.png",
+      "title": "Tiger",
+      "rank": "70",
+      "bouns": "30",
+      "tooltip_one": "Collect 70 Victory Stars to climb to the next Tier in Rank Tiger.",
+      "tooltip_two": "If you reach Rank Tiger, you'll receive 30 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/dragon.png",
+      "title": "Dragon",
+      "rank": "80",
+      "bouns": "40",
+      "tooltip_one": "Collect 80 Victory Stars to climb to the next Tier in Rank Dragon.",
+      "tooltip_two": "If you reach Rank Dragon, you'll receive 40 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    },
+    {
+      "src": "/img/png/challenger.png",
+      "title": "Challenger",
+      "bouns": "50",
+      "tooltip_two": "If you reach Rank Challenger, you'll receive 50 bonus Victory Stars for each win in the next Season. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    }
+  ],
+  "pertier": "per tier",
+  "tiers_data": "TIERS",
+  "one": "I",
+  "two": "II",
+  "three": "III",
+  "four": "IV",
+  "bonus": "Bonus:",
+  "victory_title": "Victory Stars",
+  "victory_txt": "To climb the ranks, you must collect Victory Stars by winning battles in Ranked Mode:",
+  "victory_data1": [
+    {
+      "text": "The number of Victory Stars you need to climb to the next Rank depends on your current Rank and Tier. For example, let's say you are in Egg IV (4th Tier in Rank Egg). Since this Tier requires 40 Victory Stars, you must collect 40 Victory Stars before you will be promoted to Egg III (3rd Tier in Rank Egg)."
+    },
+    { "text": "In Ranks Egg, Chick and Hare, the Victory Star outcomes are:" }
+  ],
+  "victory_data2": "In Ranks Boar, Wolf, Bear, the Victory Star outcomes are:",
+  "victory_data3": "In Tiger and Dragon, the Victory Star outcomes are:",
+  "victory_data4": [
+    {
+      "text": "In Rank Challenger, win and loss amounts are calculated by an ELO formula based on the difference in Victory Stars between the two players."
+    },
+    {
+      "text": "Excess Victory Stars acquired at the current Rank are counted towards the next Rank."
+    },
+    {
+      "text": "A player is demoted 1 Tier if they lose their next match after reaching 0 Victory Stars. For example: if an Egg III player with 0 Victory Stars loses their next battle, then they will be demoted to Egg IV with 30 Victory Stars."
+    },
+    {
+      "text": "At the start of a new Season, a player's Rank will be reset to Egg IV and their Victory Stars will be reduced to 0."
+    }
+  ],
+  "star_title": "Star Decay",
+  "star_txt1": "A decay system prevents trainers from reaching Boar rank and above and then not playing.",
+  "star_txt2": "Trainers ranked Boar and above who do not play at least 2 ranked game per day, will lose a scaling amount of ELO until they fall to lower rank.",
+  "star_txt3": "Trainers ranked Challenger will need to play at least 5 ranked games per day to avoid star decay.",
+  "win_loss_1": [
+    { "title": "Win:", "number": "+20" },
+    { "title": "Draw:", "number": "+10" },
+    { "title": "Loss:", "number": "0" }
+  ],
+  "win_loss_2": [
+    { "title": "Win:", "number": "+20" },
+    { "title": "Draw:", "number": "0" },
+    { "title": "Loss:", "number": "-10" }
+  ],
+  "win_loss_3": [
+    { "title": "Win:", "number": "+10" },
+    { "title": "Draw:", "number": "0" },
+    { "title": "Loss:", "number": "-10" }
+  ],
+  "bonus_title": "Bonus Stars!",
+  "bonus_txt1": "Bonus Victory Stars can be acquired in 2 ways:",
+  "bonus_data": [
+    {
+      "title": "By reaching a winning streak of 3 or more victories.",
+      "text": " You receive +10 Victory Star per winning streak win. This bonus only applies to Rank Bear and below."
+    },
+    {
+      "title": "By finishing a previous season at a higher rank.",
+      "text": " Based on your Rank in the previous season, you will receive a bonus for each win. This bonus is reduced by 1 each time you're promoted to a new Rank."
+    }
+  ],
+  "stat_title": "Stats",
+  "stat_txt": "Ranked Mode introduces 2 new stats that impact your earning potential:",
+
+  "stamina_data": [
+    {
+      "stamina_title": "Stamina",
+      "src1": "/img/png/stamina-icon.png",
+      "stamina_txt1": "Each Ranked battle costs 1 Stamina.",
+      "stamina_txt2": "Your Stamina is determined by the total number of Axies you have in your account. The maximum amount of Stamina you can have is 30.",
+      "src2": "/img/png/new-stamina-formula.png",
+      "stamina_txt3": "For example, if you have 4 Starter Axies and 6 Personal Axies, then you have 16 Stamina.",
+      "stamina_txt4": "You can still battle in Ranked Mode when you run out of Stamina, however, you'll receive a lower percentage of rewards as with your full stamina.The percentage of rewards you can earn will depend on the value of your Ronin Spirit."
+    },
+    {
+      "stamina_title": "Ronin Spirit",
+      "src1": "/img/png/ronin-spirit-icon.png",
+      "stamina_txt1": "Ronin Spirit determines how much SLP and extra Moon Shards you can win from battles.",
+      "stamina_txt2": "Your Ronin spirit is based on how many personal axies you have on a team.",
+      "src2": "/img/png/ronin-spirit-formula.png",
+      "stamina_txt3": "For example, if your team is comprised of 3 Personal Axies, then your Ronin Spirit's level is III.",
+      "stamina_txt4": "The higher your Ronin Spirit, the higher the percentage rewards you can potentially earn."
+    }
+  ],
+  "leaderboard": "Leaderboard",
+  "leaderboard_txt": "Each season, the entire playerbase will be ranked on the leaderboard.",
+  "ranking_title2": "Ranking System",
+  "ranking_data2": [
+    {
+      "title": "Rank - ",
+      "text": "A player's rank is based on the number of Victory Stars that they have collected from Ranked matches."
+    },
+    {
+      "title": "Ties - ",
+      "text": "If two players have an equal number of Stars, then win rate will be used as a first tie-breaker, followed by the time required to reach the current Victory Star amount."
+    }
+  ],
+  "alert_txt": "<p>Fancy yourself a top player? Register for an <a href='/esport'>Esports</a> event!</p>",
+  "tournament_title": "Tournament Mode",
+  "tournament_txt1": "Tournaments are held periodically and are an opportunity for players to test their Arena skills, compete, and win prizes.",
+  "tournament_txt2": "If you're not ready to compete, then you can watch the gameplay to learn new strategies, builds, and battle mechanics to help take your game to the next level.",
+  "tournament_txt3": "Check out upcoming Esports Tournaments!",
+  "tour_btn": "axie esports schedule",
+  "season_title": "Seasons & Rewards",
+  "season_txt": "Ranked Mode takes place over different Seasons, each lasting around 2 months, with a 1 month break in between.",
+  "season_txt2": "Players can receive 2 types of rewards each Season:",
+  "season_data": [
+    {
+      "title": "First-Time Rewards - ",
+      "text": "Received every time players are promoted to a new Rank or Tier."
+    },
+    {
+      "title": "End-of-Season Rewards - ",
+      "text": "Received at the end of the Season."
+    }
+  ],
+  "season_txt3": "At the start of a new Season, a player's Rank will be reset to Egg IV and their Victory Stars will be reduced to 0.",
+  "alert_txt4": "You can still compete in Ranked gameplay between Seasons. There are sometimes off-season rewards available to be earned!"
+}

@@ -1,0 +1,120 @@
+{
+  "footer_title": "Building your first team?",
+  "footer_text": "Check out our Axie Builds page for ideas!",
+  "footer_btn": "axie builds",
+  "footer_url": "/guides/builds",
+  "page_title": "Personal Axies",
+  "page-description": "Personal Axies are your own unique digital collectibles and NFTs (Non-Fungible Tokens) that live on the blockchain.",
+  "personal_title": "What are Personal Axies?",
+  "personal_text_1": "Just like ",
+  "personal_text_2": ", Personal Axies can be used to battle in ",
+  "personal_text_3": "Personal Axies also have unique abilities including:",
+  "personal_abilities_data": [
+    {
+      "title": "Earning - ",
+      "text": "Personal Axies can earn special rewards, including crypto tokens such as Smooth Love Potion (SLP)"
+    },
+    {
+      "title": "Breeding - ",
+      "text": "Personal Axies can breed to make more Axies!"
+    },
+    {
+      "title": "Trading -",
+      "text": "<span> Personal Axies can be bought and sold by players on the <a href='https://marketplace.axieinfinity.com/axie'>Marketplace</a></span>"
+    }
+  ],
+  "first_axies_title": "Your First Personal Axies",
+  "first_axies_text": "You will need at least 3 Personal Axies to play the game. You can either:",
+  "btn_one": "buy axies",
+  "btn_two": "find a scholarship",
+  "alert_text": "<p>If you're not ready to get your own Personal Axies, don't worry. <a href='/starter-axies'>Starter Axies</a> are available for all players to start playing for free.</p>",
+  "buying_axies_title": "Buying Axies on the Marketplace",
+  "buying_axies_text": "The Marketplace is where you can purchase Axies with a cryptocurrency called Ether (ETH). Let's learn how to create your wallet, add Ether and buy your first Axies!",
+  "buying_axies_data_title_1": "1. Create your Wallet",
+  "buying_axies_data_txt_1": "First, you'll need to create a Ronin Wallet. Your Ronin Wallet will store your crypto funds and NFT items – including Axies! ",
+  "buying_axies_data_txt_11": "<p>Follow the steps in the official <a href='https://welcome.skymavis.com/create-wallet/'>Axie Infinity Ronin Wallet tutorial</a> to get set up.</p>",
+  "buying_axies_data_title_2": "2. Get ETH",
+  "buying_axies_data_txt_2": "Next, you'll need to deposit some Ether (ETH) into your Ronin Wallet.",
+  "buying_axies_data_txt_22": " You can either buy ETH on the Ronin network or transfer ETH from the Ethereum network:",
+  "buying_axies_data_title_3": "3. Choose your Axies",
+  "buying_axies_data_txt_3": "<p>Visit the  <a href='https://marketplace.axieinfinity.com/axie'>Official Axie Marketplace</a> and pick out your Axies! Use the filters on the left to narrow down your search. </p>",
+  "buying_axies_data_title_4": "4. Sync & Play!",
+  "buying_axies_data_txt_4": "Once you've purchased your 3 Axies, you'll need to sync them so that they appear in game.",
+  "buying_axies_data_txt_41": "Open the Axie Infinity game application (either on your computer or your phone), click Axies, then click Sync.",
+  "buying_axies_data_txt_42": " Now, you're ready to battle!",
+  "eth_data": [
+    {
+      "title": "Buy ETH",
+      "text": "<p>Buy ETH directly on Ronin using the <a href='https://purchase.roninchain.com/'>Ramp Network</a>. You can choose to pay via bank transfer or credit card.</p>",
+      "btn_txt": "watch tutorial",
+      "href": "https://www.youtube.com/watch?t=77&v=mVgwiAPTMT0&feature=youtu.be"
+    },
+    {
+      "title": "Transfer ETH",
+      "text": "<p>If you already have ETH on the Ethereum network, you can use the <a href='https://bridge.roninchain.com/'>Ronin Bridge</a> to deposit your ETH onto Ronin.</p>",
+      "btn_txt": "watch tutorial",
+      "href": "https://www.youtube.com/watch?v=Y_7KZJyjG8k&t=746s"
+    }
+  ],
+  "alert_text_3": "Think of your Ronin Wallet like a boarding pass to the digital Axie nation.",
+  "alert_text2": "<p>Not sure which Axies to buy? Check out our <a href='/guides/builds'>Builds Guide</a> to learn more about commonly used Axies.</p>",
+  "scholarship_title": "Finding a Scholarship in the Community",
+  "scholarship_text": "<p>Scholarships enable new players to rent Axies from other players. This is great way to battle and earn with Personal Axies with no upfront cost. You can estimate your Scholarship earnings using the <a href=''https://axie.tech/scholarship-calculator>Scholarship Calculator</a>.</p>",
+  "scholarship_beginner": "Scholarships for Beginners",
+  "scholarship_beginner_txt": "Before looking for a Scholarship, it's important to understand the basics of a how a Scholarship works:",
+  "scholarship_data": [
+    {
+      "title": "Onboarding - ",
+      "text": "A player with Axies (the Manager) decides to lend these Axies to another player (the Scholar)."
+    },
+    {
+      "title": "Revenue Sharing - ",
+      "text": "The Manager sets the % split of earnings that will be shared with the Scholar."
+    },
+    {
+      "title": "Earning - ",
+      "text": "The Scholar battles with the Axies and earns in-game tokens called Smooth Love Potion (SLP)."
+    },
+    {
+      "title": "Payout - ",
+      "text": "The Manager transfers the Scholar's % of SLP on a set schedule, typically every 2 weeks or once per month."
+    },
+    {
+      "title": "Graduation - ",
+      "text": "The Scholar can save some or all of her SLP and use it to purchase her own Axies. When this happens, we say that the Scholar has 'graduated' from the Scholarship."
+    }
+  ],
+  "rules": "Rules",
+  "rules_txt": "Every scholarship will have its own rules set by the Manager, so be sure to ask about the rules before you apply.Here are a few basic questions to get you started:",
+  "rules_data": [
+    { "text": "What is the Scholar's % share of SLP?" },
+    { "text": "How often will the Scholar be paid out?" },
+    {
+      "text": "Is there a minimum amount of SLP that must be earned per day/week/month in order to keep the Scholarship?"
+    },
+    { "text": "Are there any other Rules of the Scholarship?" }
+  ],
+  "scholarship_txt_2": "<p>The most important rule that applies to every scholar is <bold>No Multi-Accounting</bold>. Multi-Accounting is when you play two or more different accounts on the same device. This will result in your Axies getting permanently banned.</p>",
+  "scholarship_txt_3": "<p>Lastly, all players must adhere to the rules of Axie Infinity. Be sure to read and fully understand the <a href='https://axieinfinity.com/terms/'>Axie Infinity Terms of Use</a> and the <a href='https://axieinfinity.com/code-of-conduct/'>Axie Infinity Code of Conduct</a>.</p>",
+  "find_scho_title": "Where to Find a Scholarship",
+  "find_scho_txt": "To find a Scholarship, you'll need to connect with a Manager or Guild within the Axie Infinity community.",
+  "find_scho_txt2": "<p>One option is to join the <a href='https://discord.com/invite/NUJatfbB8g'>Axie.Tech Scholar Discord</a>, where you can sign up for the Axie.Tech Scholarship waitlist:</p>",
+  "find_scho_btn": "join axie tech",
+  "find_scho_txt_3": "You can also check out the official Axie Infinity Discord server and Twitter page:",
+  "faq_data": [
+    {
+      "h4": "Where do I get Personal Axies?",
+      "p": "<p>Personal Axies can be obtained from the <a href='https://marketplace.axieinfinity.com/axie'>Marketplace</a>.</p>",
+      "btn_txt":"visit marketplace",
+      "href":"https://marketplace.axieinfinity.com/axie"
+    },
+    {
+      "h4": "What can I do with my Personal Axies?",
+      "p": "<p>Personal Axies can be used to battle in Adventure Mode and Arena Mode. They are also able to breed and can be traded with other players on the Marketplace.</p>"
+    },
+    {
+      "h4": "What’s the difference between Personal Axies and Starter Axies?",
+      "p": "<p>Personal Axies are your own unique NFTs (Non-Fugible Tokens) that live on the blockchain. They are able to breed, can be traded and can be upgraded further than <a href='/starter-axies'>Starter Axies</a>. While Starter Axies are unlocked in-game, if you want to obtain Personal Axies, you'll need to visit the <a href='https://marketplace.axieinfinity.com/axie'>Marketplace</a>.</p>"
+    }
+  ]
+}
